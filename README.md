@@ -1,6 +1,6 @@
-# Gemini-Chat
+# Doktor
 ## Overview
-GeminiChat: An AI ChatBot Developed by Gemini SDK Using Jetpack Compose
+Doktor: An AI ChatBot Developed by Gemini SDK Using Jetpack Compose
 > Technologies:
 
 - Kotlin
