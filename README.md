@@ -22,9 +22,6 @@ Doktor: An AI ChatBot Developed by Gemini SDK Using Jetpack Compose
 <table>
    <tr>
     <td><img src="image/IMG1.jpg" alt="android"></td>
-    
-   </tr>
-   <tr>
     <td><img src="image/IMG2.jpg" alt="android"></td>
     <td><img src="image/IMG3.jpg" alt="android"></td>
    </tr>
